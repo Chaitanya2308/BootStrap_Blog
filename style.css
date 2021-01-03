@@ -1,0 +1,108 @@
+
+.masterhead
+{
+    margin-bottom: 50px;
+    background: no-repeat 50%;
+    background-color: rgba(0, 0, 0, 0);
+    background-attachment: scroll;
+    background-image: none;
+    background-size: auto;
+    background-color: #868e96;
+    background-attachment: scroll;
+    position: relative;
+    background-size: cover;
+    height: 100%;
+}
+.title
+{
+font-size: 50px;
+margin-top: 0;
+font-weight:800;
+font-family: Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+.blog
+{
+font-size: 24px;
+font-weight: 300;
+line-height: 1.1;
+display: block;
+margin: 10px 0 0;
+font-family: Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+box-sizing: border-box;
+}
+.site-heading
+{
+text-align: center;
+padding: 200px 0px 150px 0px;
+color: #fff;
+box-sizing: border-box;
+}
+
+#mainNav
+{
+font-weight: 800;
+color: #343a40;
+position: absolute;
+border-bottom: 1px solid #e9ecef;
+background-color:#fff;
+font-family: Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+} 
+.post-title {
+    font-weight: 900;
+    font-size: 40px;
+  }
+  
+  .post-subtitle {
+    font-weight: 300;
+    font-family: Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+  }
+  
+  .post-title,
+  .post-subtitle {
+    color: black;
+  }
+  .post-title:hover,
+  .post-subtitle:hover {
+    color: #0085a1;
+  }
+  
+  .post-preview > a {
+    text-decoration: none;
+  }
+  
+  .post-meta {
+    font-size: 18px;
+font-style: italic;
+margin-top: 0;
+color: #868e96;
+  }
+  .a_color
+{
+    color: #212529;
+}
+
+footer .copyright
+{
+font-size: 14px;
+margin-bottom: 0px;
+text-align: center;
+
+}
+.footer-fab {
+    color: black;
+    border-radius: 100%;
+  }
+  .footer-fab:hover {
+    color: #0085a1;
+  }
+  .a_color:hover{
+    color: #0085a1;
+  }
+  .login {
+    position: fixed;
+    right: 0;
+    background-color: white;
+    top: 100px;
+  }
+
+
